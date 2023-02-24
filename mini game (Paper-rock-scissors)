@@ -27,3 +27,29 @@ while True:
         print('PC choice:', pc_choose, '.Draw！')
         draw += 1
 print('You win:', win, 'You lose:', lose, 'Draw:', draw)
+
+---------------------------
+1.Start game
+2.Exit
+Pls select(1/2):1
+1.scissors
+2.rock
+3.paper
+Your choice(1/2/3):1
+PC choice: rock .Oops,you lose！
+1.Start game
+2.Exit
+Pls select(1/2):1
+1.scissors
+2.rock
+3.paper
+Your choice(1/2/3):2
+PC choice: rock .Draw！
+1.Start game
+2.Exit
+Pls select(1/2):2
+Bye!
+You win: 0 You lose: 1 Draw: 1
+
+Process finished with exit code 0
+----------------------------------
